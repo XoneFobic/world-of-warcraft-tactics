@@ -4,11 +4,13 @@
 
 <instance-profile id="twwm"
                  name="The War Within Mythic+"
-                 start-page="the-war-within-mythic.md">
+                  start-page="the-war-within-mythic.md">
 
     <toc-element topic="the-war-within-mythic.md">
-        <toc-element toc-title="Season 1">
-            <toc-element topic="Grim-Batol.md"/>
+        <toc-element topic="Mythic.md">
+            <toc-element toc-title="Season 1">
+                <toc-element topic="Grim-Batol.md"/>
+            </toc-element>
         </toc-element>
     </toc-element>
 </instance-profile>
