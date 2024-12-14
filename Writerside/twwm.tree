@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="twwm"
+                 name="The War Within Mythic+"
+                 start-page="the-war-within-mythic.md">
+
+    <toc-element topic="the-war-within-mythic.md">
+        <toc-element toc-title="Season 1">
+            <toc-element topic="Grim-Batol.md"/>
+        </toc-element>
+    </toc-element>
+</instance-profile>
